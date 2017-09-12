@@ -1,0 +1,35 @@
+{
+  "name": "search-of-sounds",
+  "version": "1.0.0",
+  "description": "JS13k entry",
+  "scripts": {
+    "dist": "NODE_ENV=production gulp",
+    "lint": "./node_modules/.bin/eslint ./src",
+    "lint:fix": "./node_modules/.bin/eslint --fix ./src",
+    "start": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViLPy/search-of-sounds.git"
+  },
+  "author": "Vitalii Liapin",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ViLPy/search-of-sounds/issues"
+  },
+  "devDependencies": {
+    "eslint": "4.6.1",
+    "glsl-deparser": "1.0.0",
+    "glsl-min-stream": "1.0.0",
+    "glsl-parser": "2.0.0",
+    "glsl-tokenizer": "2.1.2",
+    "google-closure-compiler-js": "20170806.0.0",
+    "gulp": "3.9.1",
+    "gulp-check-filesize": "2.0.1",
+    "gulp-clean-css": "3.7.0",
+    "gulp-concat": "2.6.1",
+    "gulp-htmlmin": "3.0.0",
+    "gulp-replace": "0.6.1",
+    "gulp-zip": "4.0.0"
+  }
+}
