@@ -1,6 +1,8 @@
 # Search Of Sounds
 
-Entry for JS13k 2017 contest. Theme: **Lost**
+Entry for JS13k 2017 contest. Theme: **Lost** 
+
+[Play online](https://vilpy.github.io/search-of-sounds/)
 
 There are nine research stations in this part of ocean which are located within sectors with unique electromagnetic fluctuations.
 
