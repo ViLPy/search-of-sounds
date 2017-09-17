@@ -4,16 +4,17 @@ body {
 }
 
 * {
+  margin: 0;
+  padding: 0;
   transition: all ease 1s;
 }
 
 .game {
+  top: 0;
+  left: 0;
   position: absolute;
-  top: 20px;
-  left: calc(50% - 320px);
   width: 640px;
   height: 480px;
-  box-shadow: 3px 3px 20px #000;
 }
 
 #inf {

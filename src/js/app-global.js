@@ -38,7 +38,7 @@ const SUN_Z = 850;
 
 const MAX_SHIP_VELOCITY = 0.2;
 
-let gfxQuality = +window.localStorage.getItem('q') || 2;
+let gfxQuality = +window.localStorage.getItem('q') || 3;
 
 // texts
 const WIN_TEXT = 'You did it! All nine stations are stable now!<br><br>Press [A] to proceed with your journey';
